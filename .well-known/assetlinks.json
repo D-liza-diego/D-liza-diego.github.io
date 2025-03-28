@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["A6:34:FE:9B:4F:12:FB:F6:9F:05:1F:3F:51:09:AB:5B:58:A6:22:D4:3A:FC:7C:25:55:A1:16:9A:B6:9F:E1:BA"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bcp.bank.bcp",
+    "sha256_cert_fingerprints":
+    ["41:61:4E:BA:CA:93:4E:F7:7A:18:23:2D:33:72:84:F4:F7:F4:D3:0C:C5:C5:28:E5:47:93:0F:46:C6:D1:4A:CC"]
+  }
 }]
